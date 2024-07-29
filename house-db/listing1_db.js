@@ -18,6 +18,7 @@ house_db = {
 		'following' : '12',
 		'pro_image' : 'img/star-jasmine/pro1.png'
 	},
+	
 	'rooms' : [
 		{
 			'name' : 'Standard Single Room',
