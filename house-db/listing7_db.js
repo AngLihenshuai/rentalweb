@@ -2,7 +2,7 @@
  * @Author: archiecheng archiechengice@outlook.com
  * @Date: 2024-07-29 15:47:29
  * @LastEditors: archiecheng archiechengice@outlook.com
- * @LastEditTime: 2024-07-29 17:30:49
+ * @LastEditTime: 2024-07-29 17:33:21
  * @FilePath: \rentalweb\house-db\listing2_db.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -15,7 +15,7 @@ house_db = {
 	'link_a' : 'www.airbnb.com/rooms/',
 	'link_b' : '1159647163276259319',
 	'location' : 'Los Angeles, California, United States',
-	'des' : 'Enjoy a stylish experience at Perla on Broadway is the latest high-rise in the booming DTLA. This 17th floor condo features full-size Bosch washer & dryer and Bertazzoni appliances. You can enjoy 5-star amenities including fitness enter, pools, styled lobby with attendant, yoga studio, meeting rooms, private theater. Smart 24/7 live security guard &system & in-building parking.Walk to Grand Central Market, Walt Disney Concert Hall, Little Tokyo, Chinatown, LA Central Library, USC, UCLA, etc.',
+	'des' : 'Perla on Broadway is the latest high-rise in the booming DTLA. This 17th floor studio features full-size Bosch washer & dryer and Bertazzoni appliances. You can enjoy 5-star amenities including fitness enter, pools, styled lobby with attendant, yoga studio, meeting rooms, private theater. Smart 24/7 live security guard &system & in-building parking.Walk Score 97 (Grand Central Market, Walt Disney Concert Hall, Little Tokyo, Chinatown, LA Central Library, Dining, nightlife, shopping, USC, UCLA).',
 	'activeImg' : 'img/listing7/background.png',
 	'images' : ['img/listing7/p2.png', 
 		'img/listing7/p3.png', 
