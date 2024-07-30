@@ -63,7 +63,7 @@ house_db = {
 			'date' : 'Posted 12/05/2023',
 			'score' : '5.0',
 			'des' : 'MY stay was the best,Sijun was very helpful during our stay ,the location was absolutely perfect 👌.',
-			'review_img' : ["img/star-jasmine/bath1.png", "img/star-jasmine/bath2.png", "img/star-jasmine/bath3.png"],
+			'review_img' : [],
 		}],
 		'recommends' : [
 			{

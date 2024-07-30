@@ -87,7 +87,7 @@ house_db = {
 			'date' : 'Posted 12/05/2023',
 			'score' : '5.0',
 			'des' : 'This Airbnb was a great stay! It was very accommodating and comfortable. Sijun was very welcoming and nice, definitely would book again with her',
-			'review_img' : ["img/star-jasmine/bath1.png", "img/star-jasmine/bath2.png", "img/star-jasmine/bath3.png"],
+			'review_img' : [],
 		},
 		{
 			'proImg' : 'img/star-jasmine/pro1.png',
